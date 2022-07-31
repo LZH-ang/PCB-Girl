@@ -4,6 +4,7 @@
 *.SchLib linguist-detectable
 *.PcbLib linguist-detectable
 *.Cam linguist-detectable
+*.GML linguist-detectable
 *.schdoc linguist-detectable
 *.pcbdoc linguist-detectable
 *.schdoc linguist-language=SchDoc
