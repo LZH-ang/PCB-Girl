@@ -8,4 +8,4 @@
 *.pcbdoc linguist-detectable
 *.schdoc linguist-language=SchDoc
 *.pcbdoc linguist-language=PcbDoc
-*.zip linguist-language=PcbDoc
+*.GML linguist-language=PcbDoc
