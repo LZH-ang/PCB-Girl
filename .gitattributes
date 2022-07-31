@@ -1,0 +1,10 @@
+*.SchDoc linguist-detectable
+*.PcbDoc linguist-detectable
+*.PrjPcb linguist-detectable
+*.SchLib linguist-detectable
+*.PcbLib linguist-detectable
+*.Cam linguist-detectable
+*.schdoc linguist-detectable
+*.pcbdoc linguist-detectable
+*.schdoc linguist-language=SchDoc
+*.pcbdoc linguist-language=PcbDoc
