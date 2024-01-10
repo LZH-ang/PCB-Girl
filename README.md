@@ -8,4 +8,5 @@
 ## ヽ(≧□≦)ノ
 ![image](https://github.com/LZH-ang/PCB-Girl/blob/main/IMG%26VIDIO/comics_4.jpg)
 ![boom](https://github.com/LZH-ang/PCB-Girl/blob/main/IMG%26VIDIO/boom.jpeg)
+![boom](https://github.com/LZH-ang/PCB-Girl/blob/main/IMG%26VIDIO/comics_9.jpg)
 [@syego](https://twitter.com/syego)[@shapoco](https://twitter.com/shapoco)
